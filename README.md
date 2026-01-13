@@ -17,10 +17,7 @@ conda activate d_align
 ## Data links
 ImageNet-C [Download](https://zenodo.org/records/2235448#.Yj2RO_co_mF)
 
-## Classification Experiments
-### ImageNet-to-ImageNetC task
-We release the code of the baseline method based on vit.
-Our source LVDP model is [here](https://drive.google.com/file/d/1lJ3q0B5Y1f2L5pg8TFGgFFyXh9GbvCV6/view?usp=drive_link)
+## ImageNet-to-ImageNetC task
 ```bash
 cd imagenet-c
 bash ./bash/d_align.sh # D-Align
