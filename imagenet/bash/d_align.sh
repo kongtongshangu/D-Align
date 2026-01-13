@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python imagenetc.py --cfg ./cfgs/d_align.yaml --data_dir [your-data-dir]
