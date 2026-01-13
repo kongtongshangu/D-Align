@@ -1,4 +1,4 @@
-# Low-Frequency Perspective on Visual Domain Prompt for Continual Test-Time Adaptation
+# Continuous Test-Time Adaptation via Dual Alignment
 ![LVDP framework](img/framework.png)
 
 ## Overview
